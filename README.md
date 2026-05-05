@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Tanvir 👋
+**Aspiring Data & Business Analyst · Bangladesh**
 
-<!--
-**MZT49/MZT49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BBA Management student with self-taught skills in data analytics. I focus on turning messy data into clear insights — through dashboards, reports, and SQL queries that actually answer business questions.
 
-Here are some ideas to get you started:
+Currently working through a structured skill-building plan: SQL → Power BI → portfolio projects. Interested in roles at NGOs, development organizations, and remote analytics teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tools & Skills
+`Excel` `SQL` `Power BI` `Data Cleaning` `Dashboard Design` `Business Analysis`
+
+---
+
+### 📌 Currently
+- 📖 Revising SQL — Mode Analytics + HackerRank (Medium)
+- 📊 Building first Power BI portfolio dashboard
+- 🎯 Open to junior data/business analyst roles (remote & Bangladesh)
+
+---
+
+### 🔗 Connect
+[LinkedIn](https://www.linkedin.com/in/maruffuzzmantanvir/)
