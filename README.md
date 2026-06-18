@@ -1,5 +1,5 @@
 # Hi, I'm Tanvir 👋
-**Aspiring Data & Business Analyst · Bangladesh**
+**Data & Business Analyst · Bangladesh**
 
 BBA Management student with self-taught skills in data analytics. I focus on turning messy data into clear insights — through dashboards, reports, and SQL queries that actually answer business questions.
 
