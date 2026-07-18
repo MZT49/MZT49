@@ -49,8 +49,8 @@ I'm a BBA Management student (National University, Bangladesh) who builds SQL + 
 ### 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/maruffuzzmantanvir)
-- 🎯 [Fiverr](https://fiverr.com)
-- 💻 [Upwork](https://upwork.com)
+- 🎯 [Fiverr](https://www.fiverr.com/s/1qmZ4Xp)
+- 💻 [Upwork](https://www.upwork.com/freelancers/~01346a10bee99f1863?mp_source=share)
 - 🤝 [Contra](https://contra.com/s/qEXR6ORs-power-bi-dashboard-and-sql-data-analysis)
 - 🌐 [All Links (Linktree)](https://linktr.ee/maruffuzzmantanvir)
 
