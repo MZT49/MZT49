@@ -35,10 +35,10 @@ I'm a BBA Management student (National University, Bangladesh) who builds SQL + 
 | Project | Description |
 |---|---|
 | 🏎️ **[Four-Time Champions: Vettel vs Verstappen](https://github.com/MZT49/four-time-champions-vettel-vs-verstappen)** | SQL + Power BI comparison of F1's two greatest four-title runs - 14 questions, 5 categories |
+| 📊 **[The Leaky Bucket](https://github.com/MZT49/leaky-bucket-saas-churn)** | SQL + Power BI analysis of SaaS subscription health, MRR movement, retention, cohort behavior, LTV, and churn risk across 9,581 accounts. |
 | 🛒 **[Olist E-Commerce Analysis](https://github.com/MZT49/olist-ecommerce-analysis)** | Full sales/customer analysis on Brazil's largest e-commerce dataset |
 | 👥 **[HR Attrition Analysis](https://github.com/MZT49/HR-Attrition-Analysis)** | SQL + Power BI investigation into employee attrition drivers |
 | 🏪 **[Superstore Sales Analysis](https://github.com/MZT49/Superstore-Sales-Analysis)** | Sales performance breakdown with actionable recommendations |
-| 📊 **[Data Jobs Dashboard](https://github.com/MZT49/PowerBI-Portfolio)** | Power BI dashboard exploring the data-job market |
 
 > Every project follows the same standard: `README.md` for overview, `insight.md`/`recommendation.md` for findings, and `datanote.md`/`dataset_notes.md` for data integrity.
 
@@ -54,4 +54,4 @@ I'm a BBA Management student (National University, Bangladesh) who builds SQL + 
 - 🤝 [Contra](https://contra.com/s/qEXR6ORs-power-bi-dashboard-and-sql-data-analysis)
 - 🌐 [All Links (Linktree)](https://linktr.ee/maruffuzzmantanvir)
 
-<p align="center"><i>Open to remote Junior Data Analyst / Business Analyst opportunities — let's talk.</i></p>
+<p align="center"><i>Open to remote Junior Data Analyst / Business Analyst opportunities - let's talk.</i></p>
