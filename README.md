@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/maruffuzzmantanvir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://linktr.ee/maruffuzzmantanvir"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat&logo=linktree&logoColor=white"></a>
-  <a href="https://contra.com/s/qEXR6ORs-power-bi-dashboard-and-sql-data-analysis"><img src="https://img.shields.io/badge/Contra-Hire%20Me-black?style=flat"></a>
+  <a href="[https://contra.com/s/qEXR6ORs-power-bi-dashboard-and-sql-data-analysis](https://contra.com/s/v7NOlZAo-power-bi-dashboard-and-sql-data-analysis)"><img src="https://img.shields.io/badge/Contra-Hire%20Me-black?style=flat"></a>
 </p>
 
 ---
@@ -49,9 +49,9 @@ I'm a BBA Management student (National University, Bangladesh) who builds SQL + 
 ### 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/maruffuzzmantanvir)
-- 🎯 [Fiverr](https://www.fiverr.com/s/1qmZ4Xp)
-- 💻 [Upwork](https://www.upwork.com/freelancers/~01346a10bee99f1863?mp_source=share)
-- 🤝 [Contra](https://contra.com/s/qEXR6ORs-power-bi-dashboard-and-sql-data-analysis)
+- 🎯 [Fiverr]([https://www.fiverr.com/s/1qmZ4Xp](https://www.fiverr.com/s/zAWdzqb))
+- 💻 [Upwork]([https://www.upwork.com/freelancers/~01346a10bee99f1863?mp_source=share](https://www.upwork.com/freelancers/~01346a10bee99f1863?mp_source=share))
+- 🤝 [Contra]([https://contra.com/s/qEXR6ORs-power-bi-dashboard-and-sql-data-analysis](https://contra.com/maruffuzzman_tanvir_rbtd1fol/work?r=maruffuzzman_tanvir_rbtd1fol))
 - 🌐 [All Links (Linktree)](https://linktr.ee/maruffuzzmantanvir)
 
 <p align="center"><i>Open to remote Junior Data Analyst / Business Analyst opportunities - let's talk.</i></p>
